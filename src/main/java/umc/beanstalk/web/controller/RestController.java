@@ -9,7 +9,6 @@ public class RestController {
     public String healthCheck() {
 
         return "I'm healthy!";
-
     }
 
 }
